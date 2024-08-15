@@ -1,0 +1,26 @@
+{
+  "name": "my-event-app",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.0.0",
+    "@emotion/react": "^11.0.0",
+    "@emotion/styled": "^11.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "vite-plugin-react": "^2.0.0"
+  },
+  "author": "IP",
+  "license": "MIT"
+}
